@@ -1,3 +1,9 @@
+#!/bin/zsh
+
+# echo $ZSH_CUSTOM
+# ZSH_CUSTOM = ~/.oh-my-zsh/custom
+# echo $ZSH_CUSTOM
+
 # Install zsh autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 # Install zsh syntax highlighting
