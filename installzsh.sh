@@ -4,6 +4,8 @@
 # ZSH_CUSTOM = ~/.oh-my-zsh/custom
 # echo $ZSH_CUSTOM
 
+# Install oh-my-zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 # Install zsh autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 # Install zsh syntax highlighting
